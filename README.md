@@ -25,7 +25,7 @@ We will conduct all course communications using [Zulip](https://zulip.com/), so 
 Timeline
 --------
 
-| Date      | Topic                                                     |
+| Date (Wednesday 6pm)     | Topic                                                     |
 | ----------| --------------------------------------------------------- |
 | 22/04/20  | Installation (by Prof. v. Gaudecker)                      |
 | 29/04/20  | Introduction                                              |
