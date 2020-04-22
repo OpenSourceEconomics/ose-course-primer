@@ -2,7 +2,7 @@
 OSE Computing Primer
 ====================
 
-by [Gregor Boehl](gregorboehl.com).
+by [Gregor Boehl](https://gregorboehl.com).
 
 This course is a generic introduction to (scientific) programming in economics, covering the essentials: 
 
@@ -12,15 +12,40 @@ This course is a generic introduction to (scientific) programming in economics, 
     * functions
     * basics of data analysis
     * plotting
-    * perspectives (performance, parallelization, ...)
+    * perspectives (primers on more magic)
     * ...
 
 The examples cover Python code, a cheat sheet for R code will be provided.
 
+We will conduct all course communications using [Zulip](https://zulip.com/), so please be sure to join us there. Simply clicking the button below will take you to the proper channels. There I also post the link to the online lectures using [ZOOM](https://zoom.us/).
 
-(preliminary) Timeline
-----------------------
+[![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://bonn-econ-teaching.zulipchat.com)
 
+
+Timeline
+--------
+
+| Date      | Topic                                                     |
+| ----------| --------------------------------------------------------- |
+| 22/04/20  | Installation (by Prof. v. Gaudecker)                      |
+| 29/04/20  | Introduction                                              |
+| 06/04/20  | Basic Type                                                |
+| 13/05/20  | Essentials of Data Science                                |
+| 20/05/20  | Scientific Programming                                    |
+| 27/05/20  | Perspectives                                              |
+
+
+Ressources
+----------
+
+* the OSE [repos](https://ose-resources.readthedocs.io/en/latest/miscellaneous.html)
+* the [QuantEcon](https://python.quantecon.org/) Initative
+* Prof. [google](https://google.com) is your very best friend 
+* ...
+
+
+Topics (subject to change)
+--------------------------
 
 ### lecture 1 (Introduction):
 
