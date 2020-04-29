@@ -12,7 +12,7 @@ This course is a generic introduction to (scientific) programming in economics, 
     * functions
     * basics of data analysis
     * plotting
-    * perspectives (primers on more magic)
+    * perspectives (performance, parallelization, ...)
     * ...
 
 The examples cover Python code, a cheat sheet for R code will be provided.
@@ -43,26 +43,23 @@ Ressources
 * Prof. [google](https://google.com) is your very best friend 
 * ...
 
-
-Topics (subject to change)
---------------------------
-
-### lecture 1 (Introduction):
+### lecture 1 (introduction):
 
  * motivation
  * `"hello wörld"`
- * variables, lists & dictionaries
+ * variables & lists
+ * strings
  * conditionals
- * where to get help
+ * where to get help (aka. how-to-google-errors)
 
-### lecture 2 (Basic types):
+### lecture 2 (loops and funtions)
 
  * loops
  * functions
+ * dictionaries
  * mutability / shallow & deep copy
- * describing & googling errors
 
-### lecture 3 (Data science):
+### lecture 3 (data science):
 
  * pandas
  * loading data
@@ -73,7 +70,7 @@ Topics (subject to change)
  * numpy
  * scipy
 
-### lecture 5 (Perspectives):
+### lecture 5 (perspectives):
 
  * debugging
  * further sources/resources
