@@ -27,8 +27,8 @@ Timeline
 | Date (Wednesday 6pm)     | Topic                                                     |
 | ----------| --------------------------------------------------------- |
 | 22/04/20  | Installation (by Prof. v. Gaudecker)                      |
-| 29/04/20  | Introduction                                              |
-| 06/04/20  | Basic Type                                                |
+| 29/04/20  | Introduction + Basic Types                                |
+| 06/05/20  | Functions and Loops                                       |
 | 13/05/20  | Essentials of Data Science                                |
 | 20/05/20  | Scientific Programming                                    |
 | 27/05/20  | Perspectives                                              |
