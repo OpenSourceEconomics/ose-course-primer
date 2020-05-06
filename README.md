@@ -59,13 +59,13 @@ Ressources
  * loops
  * functions
 
-### lecture 4 (scientific programming):
+### lecture 3 (scientific programming):
 
  * numpy / scipy
  * linear algebra, optimization, stats
  * plotting
  
-### lecture 3 (data science):
+### lecture 4 (data science):
 
  * pandas
  * loading data
