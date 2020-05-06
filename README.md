@@ -6,11 +6,12 @@ by [Gregor Boehl](https://gregorboehl.com).
 This course is a generic introduction to (scientific) programming in economics, covering the essentials: 
 
     * variables
-    * loops
     * conditionals
+    * loops
     * functions
-    * basics of data analysis
+    * scientific programming
     * plotting
+    * basics of data analysis
     * perspectives (performance, parallelization, ...)
     * ...
 
@@ -27,10 +28,10 @@ Timeline
 | Date (Wednesday 6pm)     | Topic                                                     |
 | ----------| --------------------------------------------------------- |
 | 22/04/20  | Installation (by Prof. v. Gaudecker)                      |
-| 29/04/20  | Introduction + Basic Types                                |
-| 06/05/20  | Functions and Loops                                       |
-| 13/05/20  | Essentials of Data Science                                |
-| 20/05/20  | Scientific Programming                                    |
+| 29/04/20  | Introduction + basic types                                |
+| 06/05/20  | Loops and functions                                       |
+| 13/05/20  | Scientific programming + plotting                         |
+| 20/05/20  | Basics in data science                                    |
 | 27/05/20  | Perspectives                                              |
 
 
@@ -51,23 +52,23 @@ Ressources
  * conditionals
  * where to get help (aka. how-to-google-errors)
 
-### lecture 2 (loops and funtions)
+### lecture 2 (loops and functions)
 
+ * collections (tuples + dicts)
+ * mutability
  * loops
  * functions
- * dictionaries
- * mutability / shallow & deep copy
 
-### lecture 3 (data science):
+### lecture 3 (scientific programming):
+
+ * numpy / scipy
+ * linear algebra, optimization, stats
+ * plotting
+ 
+### lecture 4 (data science):
 
  * pandas
  * loading data
- * plots
-
-### lecture 4 (scientific programming):
-
- * numpy
- * scipy
 
 ### lecture 5 (perspectives):
 
