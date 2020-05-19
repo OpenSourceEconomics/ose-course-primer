@@ -1,5 +1,5 @@
-OSE Computing Primer
-====================
+
+# ![Logo](https://avatars3.githubusercontent.com/u/37739145?s=60&v=4) OSE Computing Primer 
 
 by [Gregor Boehl](https://gregorboehl.com).
 
@@ -12,8 +12,7 @@ This course is a generic introduction to (scientific) programming in economics, 
     * scientific programming
     * plotting
     * basics of data analysis
-    * perspectives (performance, parallelization, ...)
-    * ...
+    * some perspectives (performance, parallelization, ...)
 
 The examples cover Python code, a cheat sheet for R code will be provided.
 
@@ -30,8 +29,8 @@ Timeline
 | 22/04/20  | Installation (by Prof. v. Gaudecker)                      |
 | 29/04/20  | Introduction + basic types                                |
 | 06/05/20  | Loops and functions                                       |
-| 13/05/20  | Scientific programming + plotting                         |
-| 20/05/20  | Basics in data science                                    |
+| 13/05/20  | Scientific programming                                    |
+| 20/05/20  | Plotting + Basics in data science                         |
 | 27/05/20  | Perspectives                                              |
 
 
@@ -61,19 +60,20 @@ Ressources
 
 ### lecture 3 (scientific programming):
 
- * numpy / scipy
- * linear algebra, optimization, stats
- * plotting
+ * numpy 
+ * linear algebra
  
 ### lecture 4 (data science):
 
+ * plotting
  * pandas
  * loading data
 
 ### lecture 5 (perspectives):
 
+ * optimization
+ * distributions
  * debugging
  * further sources/resources
  * modules 
- * important packages
  * optional stuff (history of programming in econ, which language is for me? IDEs, ...)
