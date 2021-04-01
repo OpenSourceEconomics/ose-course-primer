@@ -16,22 +16,22 @@ This course is a generic introduction to (scientific) programming in economics, 
 
 The examples cover Python code, a cheat sheet for R code will be provided.
 
-We will conduct all course communications using [Zulip](https://zulip.com/), so please be sure to join us there. Simply clicking the button below will take you to the proper channels. There I also post the link to the online lectures using [ZOOM](https://zoom.us/).
+We will conduct all course communications using [Zulip](https://zulip.com/), so please be sure to join us there. Simply clicking the button below will take you to the proper channel. There I also post the link to the online lectures using [ZOOM](https://zoom.us/).
 
-[![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://bonn-econ-teaching.zulipchat.com)
+[![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://bonn-econ-teaching.zulipchat.com/#narrow/stream/284046-Computing-Primer.202021)
 
 
 Timeline
 --------
 
-| Date (Wednesday 6pm)     | Topic                                                     |
+| Date (Thursday 12:15 pm)     | Topic                                                     |
 | ----------| --------------------------------------------------------- |
-| 22/04/20  | Installation (by Prof. v. Gaudecker)                      |
-| 29/04/20  | Introduction + basic types                                |
-| 06/05/20  | Loops and functions                                       |
-| 13/05/20  | Scientific programming                                    |
-| 20/05/20  | Plotting + Basics in data science                         |
-| 27/05/20  | Perspectives                                              |
+| 15/04/21  | Installation (by Prof. v. Gaudecker)                      |
+| 22/04/21  | Introduction + basic types                                |
+| 29/04/21  | Loops and functions                                       |
+| 06/05/21  | Scientific programming                                    |
+| 13/05/21  | Plotting + Basics in data science                         |
+| 20/05/21  | Perspectives                                              |
 
 
 Ressources
