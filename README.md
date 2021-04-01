@@ -26,12 +26,12 @@ Timeline
 
 | Date (Thursday 12:15 pm)     | Topic                                                     |
 | ----------| --------------------------------------------------------- |
-| 15/04/20  | Installation (by Prof. v. Gaudecker)                      |
-| 22/04/20  | Introduction + basic types                                |
-| 29/04/20  | Loops and functions                                       |
-| 06/05/20  | Scientific programming                                    |
-| 13/05/20  | Plotting + Basics in data science                         |
-| 20/05/20  | Perspectives                                              |
+| 15/04/21  | Installation (by Prof. v. Gaudecker)                      |
+| 22/04/21  | Introduction + basic types                                |
+| 29/04/21  | Loops and functions                                       |
+| 06/05/21  | Scientific programming                                    |
+| 13/05/21  | Plotting + Basics in data science                         |
+| 20/05/21  | Perspectives                                              |
 
 
 Ressources
