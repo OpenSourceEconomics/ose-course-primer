@@ -14,7 +14,7 @@ This course is a generic introduction to (scientific) programming in economics, 
     * basics of data analysis
     * some perspectives (performance, parallelization, ...)
 
-The examples cover Python code, a cheat sheet for R code will be provided.
+The examples cover Python code.
 
 We will conduct all course communications using [Zulip](https://zulip.com/), so please be sure to join us there. Simply clicking the button below will take you to the proper channel. There I also post the link to the online lectures using [ZOOM](https://zoom.us/).
 
