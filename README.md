@@ -9,9 +9,9 @@ This course is a generic introduction to (scientific) programming in economics, 
     * conditionals
     * loops
     * functions
-    * scientific programming
+    * scientific programming (with `numpy`)
     * plotting
-    * basics of data analysis
+    * basics of data analysis (with `pandas`)
     * some perspectives (performance, parallelization, ...)
 
 The examples cover Python code.
